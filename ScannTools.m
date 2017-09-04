@@ -2,7 +2,7 @@
 //  ScannTools.m
 //  SGCQRCode
 //
-//  Created by uxin on 17/1/13.
+//  Created by liyanting on 17/1/13.
 //  Copyright © 2017年 liyanting. All rights reserved.
 //
 
